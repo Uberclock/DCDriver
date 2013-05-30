@@ -1,0 +1,26 @@
+Partlist
+
+Exported from AVR-A4950.brd at 5/29/2013 7:41:54 PM
+Edited by Logxen at 2013/05/29 11:49 PM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value              Package    Library             Position (inch)       Orientation
+
+C1       4.7uF-X5R          1206       SparkFun-Capacitors (0.1625 0.6875)       R270
+C2       0.22uF-X5R         0402-CAP   SparkFun-Capacitors (0.2 0.5625)          R180
+C3       0.1uF              0402-CAP   SparkFun-Capacitors (0.3625 0.5625)       R0
+C4       0.1uF              0402-CAP   SparkFun-Capacitors (0.2 0.1625)          R270
+C5       0.1uF              0402-CAP   SparkFun-Capacitors (0.4625 0.725)        R90
+C6       0.1uF              0402-CAP   SparkFun-Capacitors (0.4625 0.6)          R90
+R1       R050-1W            1206       microbuilder        (0.15 0.35)           R90
+U1       ATTINY84A-MU       QFN20      SparkFun-DigitalIC  (0.35 0.21875)        R270
+U2       A4950ELJTR-T       SOICN8-PAD logxen              (0.3375 0.425)        R90
+U3       MCP4726A0T-E/MAY   6DFN       logxen              (0.3875 0.65)         R180
+U4       NCP4680DMX10TCG    XDFN4      logxen              (0.4 0.75)            R180
+
+JP1      2.54mm Male Header 1X08       SparkFun-Connectors (0.55 0.75)           R270
+JP2      2.54mm Male Header 1X08       SparkFun-Connectors (0.05 0.05)           R90
+JP3      2.54mm Male Header 1X04       SparkFun-Connectors (0.15 0.05)           MR180

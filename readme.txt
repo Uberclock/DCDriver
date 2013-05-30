@@ -1,1 +1,1 @@
-This is basic breakout for the Atmel ATTinyX4 series microcontrollers with a pinout that is vaguely compatible with Pololu A4988 Breakout boards (http://www.pololu.com/catalog/product/1182). It uses QFN20 package, breaks out all 12 i/o pins, and has an onboard LDO voltage regulator.
+This is a servo controller for brushed dc motors with quadrature feedback and stepper style interface. It is based on an ATTiny and an Allegro A4950 full h-bridge and is compatible with RAMPS and similar motion controllers.
